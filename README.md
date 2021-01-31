@@ -1,4 +1,4 @@
-# Dracula for [GTK](https://www.gtk.org/)
+﻿# Dracula for [GTK](https://www.gtk.org/)
 
 > A dark theme for [GTK](https://www.gtk.org/).
 
@@ -12,11 +12,11 @@ All instructions can be found at [draculatheme.com/gtk](https://draculatheme.com
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/gtk/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/TheCynicalTeam/Dracula-GTK/graphs/contributors).
 
-[![Eliver Lara](https://avatars0.githubusercontent.com/u/9838260?v=3&s=70)](https://github.com/EliverLara) | 
+[![TheCynicalTeam](https://avatars.githubusercontent.com/u/9284733?s=460&v=4)](https://github.com/TheCynicalTeam) | 
 --- | 
-[Eliver Lara](https://github.com/EliverLara) | 
+[Eliver Lara](https://github.com/TheCynicalTeam) | 
 
 ## License
 
