@@ -12,11 +12,11 @@ All instructions can be found at [draculatheme.com/gtk](https://draculatheme.com
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/TheCynicalTeam/Dracula-GTK/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/The-Repo-Club/Dracula-GTK/graphs/contributors).
 
-[![TheCynicalTeam](https://avatars.githubusercontent.com/u/9284733?s=70&v=4)](https://github.com/TheCynicalTeam) | 
+[![The-Repo-Club](https://avatars.githubusercontent.com/u/9284733?s=70&v=4)](https://github.com/The-Repo-Club) | 
 --- | 
-[TheCynicalTeam](https://github.com/TheCynicalTeam) | 
+[The-Repo-Club](https://github.com/The-Repo-Club) | 
 
 ## License
 
